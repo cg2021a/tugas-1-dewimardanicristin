@@ -7,6 +7,8 @@ Tugas 1
 Benda : Kardus
 
 Link Demo : [Link Demo](https://wizardly-bassi-c4ad32.netlify.app/)
+
+
 Hasil :
 <img width="606" alt="tugas1" src="https://user-images.githubusercontent.com/73428220/136097016-4828ab18-ce8d-4c52-a751-0db2b1b42006.png">
 
