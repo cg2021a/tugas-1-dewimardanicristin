@@ -1,0 +1,11 @@
+body{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: 20px;
+}
+
+H1,h3{
+    text-align: center;
+    font-family: sans-serif;
+}
